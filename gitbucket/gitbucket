@@ -1,0 +1,3 @@
+#Assuming it´s deployed in jetty, with the jetty user
+#For tomcat or other application server edit accordingly
+GITBUCKET_DATA=/home/jetty/.gitbucket/*
